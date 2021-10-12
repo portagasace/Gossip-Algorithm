@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "GossipSimulator": {
+      "commandName": "Project",
+      "commandLineArgs": "100 line pushSum"
+    }
+  }
+}
